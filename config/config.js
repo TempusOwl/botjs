@@ -3,7 +3,7 @@ module.exports = {
   Prefix: "?", // YOUR BOT PREFIX.
 
   Users: {
-    OWNERS: ["849413565487382578", "554029264492691476"] // THE BOT OWNERS ID.
+    OWNERS: ["134118092082118657"] // THE BOT OWNERS ID.
   },
 
   Handlers: {
