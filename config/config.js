@@ -7,12 +7,11 @@ module.exports = {
   },
 
   Handlers: {
-    MONGO: "" // YOUR MONGO URI. (USE THIS ONLY IN VSCODE)
+    MONGO: "=majority" // YOUR MONGO URI. (USE THIS ONLY IN VSCODE)
   },
 
   Client: {
-    TOKEN: "", // YOUR BOT TOKEN. (USE THIS ONLY IN VSCODE)
-    ID: "" // YOUR BOT ID.
+    TOKEN: "Nzk1" // YOUR BOT ID.
   }
 
 }
